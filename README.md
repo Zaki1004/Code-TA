@@ -91,15 +91,15 @@ Selain itu, sistem menghasilkan file metadata yang memuat:
    ```bash
    pip install numpy opencv-python tensorflow matplotlib scipy tqdm
 
-2. Sesuai Path
+2. Sesuaikan Path
    
 - MODEL_PATH = "direktori_model"
 - IMAGE_DIR = "direktori_citra"
 - SAVE_DIR  = "direktori_output"
 
 3. Jalankan Program
-   ```bash
-python main.py
+      ```bash
+   python main.py
 
 
 ## Variasi Eksperimen
